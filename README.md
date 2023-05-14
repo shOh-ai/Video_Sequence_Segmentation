@@ -1,0 +1,2 @@
+# Semantic_image_Understanding_-_Automatic_Video_Sequence_Classification_Model
+2023-1_Capstone-Design
