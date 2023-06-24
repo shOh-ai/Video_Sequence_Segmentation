@@ -1,2 +1,2 @@
-# Semantic_image_Understanding_-_Automatic_Video_Sequence_Classification_Model
+# Video_Sequence_Classification_based-on_Semantic_image_Understanding
 2023-1_Capstone-Design
