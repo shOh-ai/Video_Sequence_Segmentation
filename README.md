@@ -1,4 +1,4 @@
-# Video_Sequence_Classification_based-on_Semantic_image_Understanding
+# Video_Clip_Generation_by_Video_Sequence_Segmentation
 <Br>
 Object Detection with InternImage-XL <Br>
 Place Recognition with Places365-CNNs <Br>
