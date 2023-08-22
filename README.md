@@ -11,3 +11,5 @@ Compare weighted-cosine similarity scores between stored word sets by frame to d
 - Object Detection with InternImage-XL <Br>
 - Place Recognition with Places365-CNNs <Br>
 - Action Classification with InternVideo-T <Br>
+<Br><img width="693" alt="20230822_165342" src="https://github.com/shOh-ai/Video_Clip_Generation_by_Video_Sequence_Segmentation/assets/119600394/007f7c9d-e88a-49f8-8b71-aa34857fd421"><Br>
+<img width="713" alt="20230822_165406" src="https://github.com/shOh-ai/Video_Clip_Generation_by_Video_Sequence_Segmentation/assets/119600394/d0b91248-fa61-4a1f-a25b-c0cf05f044d0">
