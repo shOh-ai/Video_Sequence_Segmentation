@@ -12,4 +12,5 @@ Compare weighted-cosine similarity scores between stored word sets by frame to d
 - Place Recognition with Places365-CNNs <Br>
 
 <Br><img width="693" alt="20230822_165342" src="https://github.com/shOh-ai/Video_Clip_Generation_by_Video_Sequence_Segmentation/assets/119600394/007f7c9d-e88a-49f8-8b71-aa34857fd421"><Br>
-<img width="713" alt="20230822_165406" src="https://github.com/shOh-ai/Video_Clip_Generation_by_Video_Sequence_Segmentation/assets/119600394/d0b91248-fa61-4a1f-a25b-c0cf05f044d0">
+<img width="713" alt="20230822_165406" src="https://github.com/shOh-ai/Video_Clip_Generation_by_Video_Sequence_Segmentation/assets/119600394/d0b91248-fa61-4a1f-a25b-c0cf05f044d0"><Br>
+<img width="544" alt="20230822_165836" src="https://github.com/shOh-ai/Video_Clip_Generation_by_Video_Sequence_Segmentation/assets/119600394/4415b357-8ea8-4089-a678-9f6f94afdf92">
