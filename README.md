@@ -1,4 +1,4 @@
-# Video Clip Generation by Video Sequence Segmentation
+Video Sequence Segmentation
 <Br>
 
 Step-1) <Br>
